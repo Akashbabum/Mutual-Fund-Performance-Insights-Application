@@ -12,11 +12,13 @@ Upload PDF File: Click on the "Upload PDF file" button and select the PDF file c
 Select Fields: After uploading the file, select the fields you want to analyze from the dropdown menu.
 View Data: The application will display the selected fields from the uploaded data in a tabular format.
 Download CSV: Click on the "Download CSV" button to download the analyzed data in CSV format.
+
+
 Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your_username/mutual-fund-insights.git
+git clone (https://github.com/Akashbabum/Mutual-Fund-Performance-Insights-Application.git)
 Install the required dependencies:
 bash
 Copy code
@@ -25,11 +27,14 @@ Run the application:
 bash
 Copy code
 streamlit run app.py
-Requirements
+
+*Requirements
 Python 3.x
 Streamlit
 pandas
 PyPDF2
+
+
 Contribution
 Contributions are welcome! If you encounter any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
