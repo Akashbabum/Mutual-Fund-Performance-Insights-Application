@@ -26,13 +26,13 @@ pip install -r requirements.txt
 Run the application:
 bash
 Copy code
-streamlit run app.py
+streamlit run app.py (to run the code in terminal)
 
 *Requirements
-Python 3.x
-Streamlit
-pandas
-PyPDF2
+Python 3.0
+streamlit==0.90.0
+pandas==1.3.3
+PyPDF2==1.26.0
 
 
 Contribution
